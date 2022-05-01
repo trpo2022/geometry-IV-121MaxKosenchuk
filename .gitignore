@@ -1,1 +1,3 @@
 *.o
+*main
+*..gitignore.swp
